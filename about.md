@@ -13,7 +13,7 @@ title:  About
 > And this website is created to record how I prepare myself to be a qualified researcher.
 > 
 > I'd also like to share my hobbies (photographing, traveling, football and so on) 
-> and happy moments through blogs in `Activities`.
+> and happy moments through blogs in `Blogs`.
 
 ## Education
 - **Johns Hopkins University**
@@ -31,7 +31,7 @@ title:  About
 - Neural Implants & Interfaces
 
 ## Curriculum Vitae
-My updated CV can be downloaded here **(content needed here)**.
+My updated CV can be downloaded [here](\assets\cv\CV_Chenyu_Gao.pdf).
 
 ## Certificates
 *As you may have noticed,
@@ -45,10 +45,23 @@ so I switched to the Imaging & Medical Devices Track.
 I use Coursera heavily to take prerequisite courses 
 so that I can catch up with those graduate-level courses in this track.*
 
-**(A list or a screenshot or a link is needed here)**
+[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/J6A537WHDVTB)
 
+[Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/S64K38T8XSLQ)
 
+[The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/certificate/9XE34JJTHKE7)
 
+[Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/FK6KSRS5LHHV)
+
+[Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/CX2F8HUAC7VC)
+
+[Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/C352TBGW4MPN)
+
+[Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/B2P5MRAQU9AQ)
+
+[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/certificate/8UDRWE58QLFE)
+
+<br>
 
 ![Full-width image](/assets/img/about_photo_chenyu.jpg){:.lead width="960" height="1280" loading="lazy"}
 
