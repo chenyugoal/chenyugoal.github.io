@@ -45,21 +45,28 @@ so I switched to the Imaging & Medical Devices Track.
 I use Coursera heavily to take prerequisite courses 
 so that I can catch up with those graduate-level courses in this track.*
 
-[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/J6A537WHDVTB)
+### Machine Learning & Deep Learning
 
-[Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/S64K38T8XSLQ)
+[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/certificate/8UDRWE58QLFE)
 
-[The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/certificate/9XE34JJTHKE7)
+[Machine Learning](https://coursera.org/share/56cab232ab7084740f7fbdaa64f24dc6)
 
 [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/FK6KSRS5LHHV)
 
+[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/J6A537WHDVTB)
+
 [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/CX2F8HUAC7VC)
 
-[Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/C352TBGW4MPN)
+
+### Data Science & Programming
 
 [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/certificate/B2P5MRAQU9AQ)
 
-[Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/account/accomplishments/certificate/8UDRWE58QLFE)
+[Python Data Structures](https://www.coursera.org/account/accomplishments/certificate/C352TBGW4MPN)
+
+[The Data Scientist’s Toolbox](https://www.coursera.org/account/accomplishments/certificate/9XE34JJTHKE7)
+
+[Introduction to Data Science in Python](https://www.coursera.org/account/accomplishments/certificate/S64K38T8XSLQ)
 
 <br>
 
