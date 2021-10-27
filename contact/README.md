@@ -3,13 +3,6 @@ layout: page
 title:  Contact
 ---
 
-<br/>
-
-Chenyu Gao
-
-Johns Hopkins University
-
-Biomedical Engineering
 
 <br/>
 

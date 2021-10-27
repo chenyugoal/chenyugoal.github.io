@@ -5,22 +5,20 @@ title:  Research Projects
 
 
 
-## 2021
+# Since 2020
 
 [Shiny APP for Bird Recognition Using Convolutional Neural Network]{:.heading.flip-title}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Ax88Q_l0P4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 An easy-to-use [website](https://m250.shinyapps.io/bird_recognition/) for bird image classification. 
-Upload a photo (any resolution will be fine) of bird, 
+Upload an image of bird, 
 then it will tell you the top-5 most likely bird species it belongs to.
 {:.faded} 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Ax88Q_l0P4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br/>
 
 [Multimodal Brain Tumor Segmentation and Survival Prediction]{:.heading.flip-title}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l_EKNv7wyXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This is the final project (II) of *Medical Image Analysis*. 
 We implemented a 3D Multimodal U-Net with sparse annotation, 
@@ -29,11 +27,11 @@ Based on the segmentation result,
 we extract Radiomics features and predict on the survival time of patient using regression tree ensembles.
 {:.faded} 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l_EKNv7wyXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br/>
 
 [Neural Decoding for Patients with Upper Limb Paralysis]{:.heading.flip-title}
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NOyhoJYvcIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Inspired by the experiment of Elon Musk’s Neuralink, 
 where the monkey could play video games with its brain, 
@@ -42,11 +40,11 @@ the Long Short-term Memory Networks and the Kalman Filter,
 in our course project of *Neural Implants & Interfaces*.
 {:.faded} 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NOyhoJYvcIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br/>
 
 [Progressive Learning: A Potential Algorithm for Lifelong Learning Machines]{:.heading.flip-title}
-
-<img src="\research_projects\img\2021_NDD\learning_schema_new.png" alt="drawing" width="640"/>
 
 In biological learning, 
 data are used to improve performance simultaneously on the current task, 
@@ -60,13 +58,30 @@ But striving to avoid forgetting sets the goal unnecessarily low:
 the goal of ProgLearn is to improve performance on all tasks (including past and future) with any new data.
 {:.faded} 
 
+<img src="\research_projects\img\2021_NDD\learning_schema_new.png" alt="drawing" width="640"/>
+
 <br/>
 
+# Undergraduate
 
+[Bioactive Scaffolds for Bone Tissue Engineering]{:.heading.flip-title}
 
+Bone is well known for its self-healing abilities. However, for large-scale defects, 
+bone cannot heal itself completely. In such case, external intervention is needed. 
+By implanting bioactive scaffolds into the defect area, 
+we provide places for cells to adhere, proliferate and differentiate, 
+thus accelerating the process of bone tissue regeneration. 
+Below is the schematic illustration of bioactive gelatin cryogels 
+with BMP-2 biomimetic peptide and VEGF for synergistically induced osteogenesis. 
+The paper has been accepted by *Chinese Chemical Letters*.
+{:.faded} 
 
+<img src="\research_projects\img\2020_BONE\CCLET-D-21-01349_R2.jpg" alt="drawing" width="480"/>
+
+<br/>
 
 [Shiny APP for Bird Recognition Using Convolutional Neural Network]: 2021_DS_APP.md
 [Multimodal Brain Tumor Segmentation and Survival Prediction]: 2021_MIA_brain_tumor_seg.md
 [Neural Decoding for Patients with Upper Limb Paralysis]: 2021_NII_project_decoding.md
 [Progressive Learning: A Potential Algorithm for Lifelong Learning Machines]: 2021_NDD_progressive_learning.md
+[Bioactive Scaffolds for Bone Tissue Engineering]: 2020_UG_BONE.md

@@ -1,12 +1,8 @@
 ---
 layout: post
-title: Today I Create the Website
-image: /assets/img/blog/jj-ying.jpg
-accent_image: 
-  background: url('/assets/img/blog/jj-ying.jpg') center/cover
-  overlay: false
-accent_color: '#ccc'
-theme_color: '#ccc'
+title: Today I Create the Website!
+accent_color: '#F5F3F3'
+theme_color: '#F5F3F3'
 description: >
   The birth of my website!
 invert_sidebar: true
