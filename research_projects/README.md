@@ -14,9 +14,8 @@ Upload an image of bird,
 then it will tell you the top-5 most likely bird species it belongs to.
 {:.faded} 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_Ax88Q_l0P4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_Ax88Q_l0P4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Multimodal Brain Tumor Segmentation and Survival Prediction]{:.heading.flip-title}
 
@@ -27,9 +26,8 @@ Based on the segmentation result,
 we extract Radiomics features and predict on the survival time of patient using regression tree ensembles.
 {:.faded} 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l_EKNv7wyXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l_EKNv7wyXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Neural Decoding for Patients with Upper Limb Paralysis]{:.heading.flip-title}
 
@@ -40,9 +38,8 @@ the Long Short-term Memory Networks and the Kalman Filter,
 in our course project of *Neural Implants & Interfaces*.
 {:.faded} 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NOyhoJYvcIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 <br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NOyhoJYvcIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [Progressive Learning: A Potential Algorithm for Lifelong Learning Machines]{:.heading.flip-title}
 
@@ -58,9 +55,8 @@ But striving to avoid forgetting sets the goal unnecessarily low:
 the goal of ProgLearn is to improve performance on all tasks (including past and future) with any new data.
 {:.faded} 
 
-<img src="\research_projects\img\2021_NDD\learning_schema_new.png" alt="drawing" width="640"/>
-
 <br/>
+<img src="\research_projects\img\2021_NDD\learning_schema_new.png" alt="drawing" width="640"/>
 
 # Undergraduate
 
@@ -76,9 +72,8 @@ with BMP-2 biomimetic peptide and VEGF for synergistically induced osteogenesis.
 The paper has been accepted by *Chinese Chemical Letters*.
 {:.faded} 
 
-<img src="\research_projects\img\2020_BONE\CCLET-D-21-01349_R2.jpg" alt="drawing" width="480"/>
-
 <br/>
+<img src="\research_projects\img\2020_BONE\CCLET-D-21-01349_R2.jpg" alt="drawing" width="480"/>
 
 [Shiny APP for Bird Recognition Using Convolutional Neural Network]: 2021_DS_APP.md
 [Multimodal Brain Tumor Segmentation and Survival Prediction]: 2021_MIA_brain_tumor_seg.md
