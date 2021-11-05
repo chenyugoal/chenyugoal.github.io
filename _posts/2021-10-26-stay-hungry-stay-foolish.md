@@ -27,11 +27,11 @@ so that I can catch up with those graduate-level courses in this track.
 
 ## In Progress
 
-Convolutional Neural Networks
-
 Generative Adversarial Network
 
 Neuroscience
+
+C++
 
 ## Completed Courses & Certificates
 
@@ -46,6 +46,8 @@ Neuroscience
 [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/J6A537WHDVTB)
 
 [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/CX2F8HUAC7VC)
+
+[Convolutional Neural Networks](https://coursera.org/share/7f44b2eefa8206a2efb085c8af307fec)
 
 
 ### Data Science & Programming
