@@ -3,12 +3,9 @@ layout: about
 title:  About
 ---
 
-> Improving healthcare has always been my dream. 
-> To me, it means more than making incurable disease curable.
-> Filling the gap between widely affordable therapy and costly advanced infrastructure 
-> is also important.
-> 
-> In the near future, I will apply for a Ph.D. program to explore deep into AI healthcare.
+> Improving healthcare is my dream. 
+> It means not only making incurable disease curable, 
+> but also filling the “gap” between widely affordable therapy and costly advanced infrastructure.
 
 ## Education
 - **Johns Hopkins University**
