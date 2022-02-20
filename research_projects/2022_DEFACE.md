@@ -19,7 +19,7 @@ We compare the consistency of the output from the pipeline using the defaced ima
 with the output of the same pipeline without defacing the MR data.
 >
 
-<object data="\research_projects\img\2022_Defacing\SPIE-MI_ChenyuGao_Poster.pdf" type="application/pdf" width="800px" height="800px">
+<object data="\research_projects\img\2022_Defacing\SPIE-MI_ChenyuGao_Poster.pdf" type="application/pdf" width="100%" height="600px">
   <p><a href="\research_projects\img\2022_Defacing\SPIE-MI_ChenyuGao_Poster.pdf">Click here to download the high-res poster.</a></p>
 </object>
 
