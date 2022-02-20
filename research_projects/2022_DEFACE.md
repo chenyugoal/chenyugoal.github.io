@@ -18,10 +18,11 @@ then apply a neuroimaging pipeline to the resultant defaced images.
 We compare the consistency of the output from the pipeline using the defaced images 
 with the output of the same pipeline without defacing the MR data.
 >
+<iframe src="\research_projects\img\2022_Defacing\SPIE-MI_ChenyuGao_Poster.pdf" width="640px" height="640px">
+    </iframe>
 
-<object data="\research_projects\img\2022_Defacing\SPIE-MI_ChenyuGao_Poster.pdf" type="application/pdf" width="100%" height="100%">
-  <p><a href="\research_projects\img\2022_Defacing\SPIE-MI_ChenyuGao_Poster.pdf">Click here to download the poster!</a></p>
-</object>
+Visit SPIE page for the presentation video:
+<a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
 Link to the SPIE page:
 
