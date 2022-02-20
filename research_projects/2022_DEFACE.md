@@ -19,10 +19,18 @@ We compare the consistency of the output from the pipeline using the defaced ima
 with the output of the same pipeline without defacing the MR data.
 >
 
+<br/>
+
 <object data="\research_projects\img\2022_Defacing\SPIE-MI_ChenyuGao_Poster.pdf" type="application/pdf" width="100%" height="600px">
-  <p><a href="\research_projects\img\2022_Defacing\SPIE-MI_ChenyuGao_Poster.pdf">Click here to download the high-res poster.</a></p>
+  <p><a href="\research_projects\img\2022_Defacing\SPIE-MI_ChenyuGao_Poster.pdf">Click here to view the high-res poster.</a></p>
 </object>
 
 <br/>
 
-<p><a href="https://spie.org/medical-imaging/presentation/Effects-of-defacing-whole-head-MRI-on-neuroanalysis/12032-139">Visit SPIE page for the presentation video.</a></p>
+<p><a href="https://players.brightcove.net/689254975001/sFw7emDrV_default/index.html?videoId=6294970107001">
+Watch the presentation video.</a></p>
+
+<br/>
+
+<p><a href="https://spie.org/medical-imaging/presentation/Effects-of-defacing-whole-head-MRI-on-neuroanalysis/12032-139">
+Visit SPIE page for more details.</a></p>
