@@ -22,7 +22,8 @@ on a neuroimaging pipeline. In this work, we use six MR defacing algorithms
 on 179 subjects from the OASIS-3 cohort and 21 subjects from the Kirby 21 dataset, 
 then apply a neuroimaging pipeline to the resultant defaced images. 
 We compare the consistency of the output from the pipeline using the defaced images 
-with the output of the same pipeline without defacing the MR data.
+with the output of the same pipeline without defacing the MR data. 
+(Advisor: Prof. [Jerry Prince](http://iacl.jhu.edu/index.php?title=Prince))
 {:.faded} 
 
 <br/>
@@ -33,6 +34,7 @@ with the output of the same pipeline without defacing the MR data.
 An easy-to-use [website](https://m250.shinyapps.io/bird_recognition/) for bird image classification. 
 Upload an image of bird, 
 then it will tell you the top-5 most likely bird species it belongs to.
+(Advisor: Prof. [Brian Caffo](https://sites.google.com/view/bcaffo/home))
 {:.faded} 
 
 <br/>
@@ -45,6 +47,7 @@ We implemented a 3D Multimodal U-Net with sparse annotation,
 and a Cascaded Anisotropic Convolutional Neural Networks for brain tumor segmentation respectively.
 Based on the segmentation result, 
 we extract Radiomics features and predict on the survival time of patient using regression tree ensembles.
+(Advisor: Prof. [Jerry Prince](http://iacl.jhu.edu/index.php?title=Prince))
 {:.faded} 
 
 <br/>
@@ -57,6 +60,7 @@ where the monkey could play video games with its brain,
 we implemented two algorithms for neural decoding, 
 the Long Short-term Memory Networks and the Kalman Filter, 
 in our course project of *Neural Implants & Interfaces*.
+(Advisor: Prof. [Gene Fridman](https://www.hopkinsmedicine.org/profiles/details/gene-fridman))
 {:.faded} 
 
 <br/>
@@ -74,6 +78,7 @@ their performance on prior tasks degrades upon learning new tasks (called "catas
 Many recent approaches have attempted to maintain performance given new tasks. 
 But striving to avoid forgetting sets the goal unnecessarily low: 
 the goal of ProgLearn is to improve performance on all tasks (including past and future) with any new data.
+(Advisor: Prof. [Joshua Vogelstein](https://jovo.me/))
 {:.faded} 
 
 <br/>
@@ -91,6 +96,7 @@ thus accelerating the process of bone tissue regeneration.
 Below is the schematic illustration of bioactive gelatin cryogels 
 with BMP-2 biomimetic peptide and VEGF for synergistically induced osteogenesis. 
 The paper has been accepted by *Chinese Chemical Letters*.
+(Advisor: Prof. [Jun Wu](https://scholar.google.com/citations?user=adrSJigAAAAJ&hl=en&oi=ao))
 {:.faded} 
 
 <br/>
