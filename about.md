@@ -9,19 +9,33 @@ title:  About
 
 ## Education
 - **Johns Hopkins University**
-  - Program: M.S.E. in Biomedical Engineering
+  - M.S.E. in Biomedical Engineering (August 2020 - May 2022)
   - Track: Imaging & Medical Devices
-  - Duration: August 2020 - May 2022
+
 - **Sun Yat-sen University**
-  - Program: B.Eng. in Biomedical Engineering
+  - B.Eng. in Biomedical Engineering (August 2016 - June 2020)
   - Track: Translational Cell & Tissue Engineering
-  - Duration: August 2016 - June 2020
+
+## Technical Skills
+- Languages
+  - Python (2 years)
+  - C++ (1 year)
+  - R (1.5 years)
+  - MATLAB (4 years)
+- Algorithms
+  - See the blog [*Stay Hungry, Stay Foolish*](https://chenyugoal.github.io/2021-10-26-stay-hungry-stay-foolish/).
+- Developer Tools: Unix/Bash, Git, Singularity, Docker
+- Libraries: OpenCV, TensorFlow, PyTorch, Keras, scikit-learn, NumPy
 
 ## Research Interests
-- Medical Image Analysis
 - Computer Vision
-- Neural Implants & Interfaces
-
+  - Medical Image Analysis
+- Machine Learning
+  - Medical AI
+- Signal Processing
+  - Brain-computer interface (BCI)
+  - Neural Implants
+  
 ## Curriculum Vitae
 My updated CV can be downloaded [here](\assets\cv\CV_Chenyu_Gao.pdf).
 
