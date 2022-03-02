@@ -7,14 +7,24 @@ title:  About
 > It means not only making incurable disease curable, 
 > but also filling the “gap” between widely affordable therapy and costly advanced infrastructure.
 
+## Research Interests
+- Computer Vision
+  - medical image analysis
+- Machine Learning
+  - AI in healthcare
+- Signal Processing
+  - brain-computer interface (BCI)
+  - neural implants
+
 ## Education
 - **Johns Hopkins University**
   - M.S.E. in Biomedical Engineering (August 2020 - May 2022)
-  - Track: Imaging & Medical Devices
+    - TA of Medical Image Analysis (EN.520.623)
+    - RA in [Image Analysis and Communications Lab](http://iacl.jhu.edu/index.php?title=Main_Page) led by professor [Jerry Prince](http://iacl.jhu.edu/index.php?title=Prince).
 
 - **Sun Yat-sen University**
   - B.Eng. in Biomedical Engineering (August 2016 - June 2020)
-  - Track: Translational Cell & Tissue Engineering
+    - Track: Translational Cell & Tissue Engineering
 
 ## Technical Skills
 - Languages
@@ -27,15 +37,6 @@ title:  About
 - Developer Tools: Unix/Bash, Git, Singularity, Docker
 - Libraries: OpenCV, TensorFlow, PyTorch, Keras, scikit-learn, NumPy
 
-## Research Interests
-- Computer Vision
-  - Medical Image Analysis
-- Machine Learning
-  - Medical AI
-- Signal Processing
-  - Brain-computer interface (BCI)
-  - Neural Implants
-  
 ## Curriculum Vitae
 My updated CV can be downloaded [here](\assets\cv\CV_Chenyu_Gao.pdf).
 
