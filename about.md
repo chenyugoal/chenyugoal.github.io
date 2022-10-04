@@ -8,37 +8,25 @@ title:  About
 > but also filling the “gap” between widely affordable therapy and costly advanced infrastructure.
 
 ## Research Interests
+- Medical Image Analysis
 - Computer Vision
-  - medical image analysis
-- Machine Learning
-  - AI in healthcare
-- Signal Processing
-  - brain-computer interface (BCI)
-  - neural implants
 
 ## Education
+- **Vanderbilt University**
+  - Ph.D. in Electrical and Computer Engineering
+  - [Medical-image Analysis and Statistical Interpretation lab](https://my.vanderbilt.edu/masi/) advised by Dr. [Bennett Landman](https://my.vanderbilt.edu/masi/people/bennett-landman-ph-d/)
 - **Johns Hopkins University**
   - M.S.E. in Biomedical Engineering (August 2020 - May 2022)
-    - TA of Medical Image Analysis (EN.520.623)
-    - RA in [Image Analysis and Communications Lab](http://iacl.jhu.edu/index.php?title=Main_Page) led by professor [Jerry Prince](http://iacl.jhu.edu/index.php?title=Prince).
+  - Teaching Assistant of Medical Image Analysis (EN.520.623)
+  - Research Assistant in [Image Analysis and Communications Lab](http://iacl.jhu.edu/index.php?title=Main_Page) led by professor [Jerry Prince](http://iacl.jhu.edu/index.php?title=Prince).
 
 - **Sun Yat-sen University**
   - B.Eng. in Biomedical Engineering (August 2016 - June 2020)
     - Track: Translational Cell & Tissue Engineering
 
-## Technical Skills
-- Languages
-  - Python (2 years)
-  - C++ (1 year)
-  - R (1.5 years)
-  - MATLAB (4 years)
-- Algorithms
-  - See the blog [*Stay Hungry, Stay Foolish*](https://chenyugoal.github.io/2021-10-26-stay-hungry-stay-foolish/).
-- Developer Tools: Unix/Bash, Git, Singularity, Docker
-- Libraries: OpenCV, TensorFlow, PyTorch, Keras, scikit-learn, NumPy
 
 ## Curriculum Vitae
-My updated CV can be downloaded [here](\assets\cv\CV_Chenyu_Gao.pdf).
+My CV can be downloaded [here](\assets\cv\CV_Chenyu_Gao.pdf).
 
 <br>
 
