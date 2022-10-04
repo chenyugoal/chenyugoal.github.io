@@ -13,7 +13,7 @@ title:  About
 
 ## Education
 - **Vanderbilt University**
-  - Ph.D. in Electrical and Computer Engineering
+  - Ph.D. in Electrical and Computer Engineering (August 2022 - Present)
   - [Medical-image Analysis and Statistical Interpretation lab](https://my.vanderbilt.edu/masi/) advised by Dr. [Bennett Landman](https://my.vanderbilt.edu/masi/people/bennett-landman-ph-d/)
 - **Johns Hopkins University**
   - M.S.E. in Biomedical Engineering (August 2020 - May 2022)
