@@ -12,24 +12,7 @@ description: >
 invert_sidebar: true
 ---
 
-As you may have noticed,
-my study and research track during undergraduate study was 
-Translational Cell & Tissue Engineering.
-It emphasizes knowledge about physiology, animal surgery, 
-biomaterials, drug delivery and so on.
-When entering JHU BME, however,
-I grew interests in harnessing the power of computers and electronics, 
-so I switched to the Imaging & Medical Devices Track.
-I use Coursera and YouTube heavily to take prerequisite courses 
-so that I can catch up with those graduate-level courses in this track.
-
-I will use this blog to record my progress.
-
-## In Progress
-
-C++, Neuroscience
-
-## Completed
+And it will go on for a lifetime.
 
 ### Machine Learning & Deep Learning
 
