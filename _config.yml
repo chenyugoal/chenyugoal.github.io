@@ -25,17 +25,11 @@ title:                 Chenyu Gao
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  This is Chenyu Gao,
-  a first-year master student in biomedical engineering at Johns Hopkins University.
-  Improving healthcare has always been my dream.
-  To me, it means more than making incurable disease curable.
-  Filling the gap between widely affordable therapy and costly advanced infrastructure is also important.
-  In the near future, I will apply for a Ph.D. program to explore deep into AI healthcare.
-  And this website is created to record how I prepare myself to be a qualified researcher.
-  I’d also like to share my hobbies (photographing, traveling, football and so on) and happy moments through blogs in Activities.
-
+  Ph.D. student in Electrical and Computer Engineering at Vanderbilt University.
+  My research interest is focused on medical image analysis and computer vision.
+  
 # A shorter description for the sidebar.
-tagline:               A potential scientist in artificial intelligence in medicine.
+tagline:               A researcher in medical image analysis and computer vision.
 
 
 # A list of keywords for your blog
