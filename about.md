@@ -26,7 +26,7 @@ title:  About
 
 
 ## Curriculum Vitae
-My CV can be downloaded [here](\assets\cv\CV_Chenyu_Gao.pdf).
+My CV can be downloaded [here](\assets\cv\CV_Chenyu_Gao_ver_2024-10-16.pdf).
 
 <br>
 
