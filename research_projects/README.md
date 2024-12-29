@@ -4,8 +4,7 @@ title:  Research Projects
 ---
 
 
-
-# Since 2020
+# 2021 - 2022
 
 [Effects of Defacing Whole Head MRI on Neuroanalysis]{:.heading.flip-title}
 
@@ -84,7 +83,7 @@ the goal of ProgLearn is to improve performance on all tasks (including past and
 <br/>
 <img src="\research_projects\img\2021_NDD\learning_schema_new.png" alt="drawing" width="640"/>
 
-# Undergraduate
+# 2018
 
 [Bioactive Scaffolds for Bone Tissue Engineering]{:.heading.flip-title}
 

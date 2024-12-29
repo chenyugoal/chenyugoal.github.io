@@ -3,18 +3,13 @@ layout: page
 title:  Contact
 ---
 
-<br/>
-
-369 Jacobs Hall
-
-Vanderbilt University
-
-Nashville, TN 37235-1679
-
-<br/>
+**E-mail:** chenyu.gao@vanderbilt.edu
 
 **Tel:** (667) 910-5300
 
-**E-mail:** chenyu [dot] gao [at] vanderbilt [dot] edu
+**USPS / Regular Mail Address:**
 
-**Wechat:** Ayukingmee
+    Vanderbilt University EECS
+    2301 Vanderbilt Pl.
+    PO Box 351679 Station B
+    Nashville, TN 37235-1679

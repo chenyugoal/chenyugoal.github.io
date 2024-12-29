@@ -25,11 +25,10 @@ title:                 Chenyu Gao
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Ph.D. student in Electrical and Computer Engineering at Vanderbilt University.
-  My research interest is focused on medical image analysis and computer vision.
+  Personal website of Chenyu Gao, a Ph.D. student in Electrical and Computer Engineering at Vanderbilt University, an AI scholar.
   
 # A shorter description for the sidebar.
-tagline:               A researcher in medical image analysis and computer vision.
+tagline:               Advancing AI and Machine Learning to Improve Lives.
 
 
 # A list of keywords for your blog
@@ -38,17 +37,17 @@ keywords:              []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/chenyu_alashan.png
+logo:                  /assets/img/chenyu_headshot_2024.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
   name:                Chenyu Gao
-  email:               chenyu_gao@outlook.com
-  picture:             /assets/img/chenyu_alashan.png
+  email:               chenyu.gao@vanderbilt.edu
+  picture:             /assets/img/chenyu_headshot_2024.jpg
   social:
     github:            chenyugoal
-    email:             chenyu_gao@outlook.com
+    email:             chenyu.gao@vanderbilt.edu
     linkedin:          chenyu-gao-4633b31a4
     # rss:             https://lazyren.github.io/feed.xml
     # facebook:        <username>
@@ -132,13 +131,13 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          none
-accent_color:          rgb(79,177,186)
+accent_image:          /assets/img/photography/IMG_3584.jpg
+accent_color:          rgb(128,183,237)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(19,72,87)
+theme_color:           rgb(128,183,237)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
