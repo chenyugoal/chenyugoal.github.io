@@ -132,12 +132,12 @@ remote_theme: hydecorp/hydejack@v9
  
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/photography/IMG_3584.jpg
-accent_color:          rgb(128,183,237)
+accent_color:          rgb(18,31,51)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(128,183,237)
+theme_color:           rgb(18,31,51)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
@@ -214,6 +214,7 @@ kramdown:
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
 # google_analytics:      UA-XXXXXXXX-X
+google_analytics:      G-BTJ4J9BHF0
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
