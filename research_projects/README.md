@@ -3,8 +3,16 @@ layout: page
 title:  Research Projects
 ---
 
+## 2024
+[BRAID: Brain Age Identification from Diffusion MRI]{:.heading.flip-title}
 
-# 2021 - 2022
+Traditional brain age estimation often relies on macro-structural features, such as the size and shape of brain regions. In this study, we take a novel approach by intentionally discarding such information through deformable registration, directing the model's attention to micro-structural features within diffusion MRI. These subtle, textural patterns are known to change earlier than macro-structural features in neurodegenerative diseases like Alzheimer's, offering the potential for earlier detection and intervention. [[GitHub](https://github.com/MASILab/BRAID)] [[arXiv](https://arxiv.org/abs/2410.22454)]
+{:.faded}
+
+<img src="\research_projects\img\2024_BRAID\BRAID_figure_idea.png" alt="BRAID idea figure" style="width:80%; max-width:1950px; height:auto;"/>
+
+
+## 2021 - 2022
 
 [Effects of Defacing Whole Head MRI on Neuroanalysis]{:.heading.flip-title}
 
@@ -28,6 +36,7 @@ with the output of the same pipeline without defacing the MR data.
 <br/>
 <img src="\research_projects\img\2022_Defacing\Defacing_3D_Rendering_All_Methods.png" alt="drawing" width="640"/>
 
+## 2021 
 [Shiny APP for Bird Recognition Using Convolutional Neural Network]{:.heading.flip-title}
 
 An easy-to-use [website](https://m250.shinyapps.io/bird_recognition/) for bird image classification. 
@@ -39,6 +48,7 @@ then it will tell you the top-5 most likely bird species it belongs to.
 <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_Ax88Q_l0P4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 2021
 [Multimodal Brain Tumor Segmentation and Survival Prediction]{:.heading.flip-title}
 
 This is the final project (II) of *Medical Image Analysis*. 
@@ -52,6 +62,8 @@ we extract Radiomics features and predict on the survival time of patient using 
 <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l_EKNv7wyXg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+## 2021
 [Neural Decoding for Patients with Upper Limb Paralysis]{:.heading.flip-title}
 
 Inspired by the experiment of Elon Musk’s Neuralink, 
@@ -65,6 +77,7 @@ in our course project of *Neural Implants & Interfaces*.
 <br/>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NOyhoJYvcIE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 2020 - 2021
 [Progressive Learning: A Potential Algorithm for Lifelong Learning Machines]{:.heading.flip-title}
 
 In biological learning, 
@@ -83,7 +96,7 @@ the goal of ProgLearn is to improve performance on all tasks (including past and
 <br/>
 <img src="\research_projects\img\2021_NDD\learning_schema_new.png" alt="drawing" width="640"/>
 
-# 2018
+## Undergraduate research (before 2020)
 
 [Bioactive Scaffolds for Bone Tissue Engineering]{:.heading.flip-title}
 
@@ -101,9 +114,13 @@ The paper has been accepted by *Chinese Chemical Letters*.
 <br/>
 <img src="\research_projects\img\2020_BONE\CCLET-D-21-01349_R2.jpg" alt="drawing" width="480"/>
 
+
+
+<!-- Links -->
 [Shiny APP for Bird Recognition Using Convolutional Neural Network]: 2021_DS_APP.md
 [Multimodal Brain Tumor Segmentation and Survival Prediction]: 2021_MIA_brain_tumor_seg.md
 [Neural Decoding for Patients with Upper Limb Paralysis]: 2021_NII_project_decoding.md
 [Progressive Learning: A Potential Algorithm for Lifelong Learning Machines]: 2021_NDD_progressive_learning.md
 [Bioactive Scaffolds for Bone Tissue Engineering]: 2020_UG_BONE.md
 [Effects of Defacing Whole Head MRI on Neuroanalysis]: 2022_DEFACE.md
+[BRAID: Brain Age Identification from Diffusion MRI]: 2024_BRAID.md
