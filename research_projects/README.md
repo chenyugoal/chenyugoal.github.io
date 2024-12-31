@@ -23,7 +23,13 @@ Not all brain diffusion MRI scans capture the entire brain. For scans with an in
 ## 2023
 [Characterizing patterns of DTI variance in aging brains]{:.heading.flip-title}
 
-## 2021 - 2022
+Diffusion tensor imaging (DTI) measurements of brain microstructure are known to be associated with age. But what about the uncertainty of these measurements? Does it increase or decrease with age? This study explores such relationships and emphasizes the importance of considering heteroscedasticity in analyses.
+{:.faded}
+
+<img src="\research_projects\img\2023_DTI_variance\EveType1_1600px_lossless.gif" alt="Spinning brain gif" style="width:80%; max-width:512px; height:auto;"/>
+
+
+## 2022
 
 [Effects of Defacing Whole Head MRI on Neuroanalysis]{:.heading.flip-title}
 

@@ -87,4 +87,12 @@ Our approach, **BRAID**, delivers an earlier biomarker, which we name "WM age no
   <figcaption>Data points from four diagnostic groups (CN: cognitively normal; CN*: cognitively normal at present but diagnosed with MCI in 2.4 ± 1.2 years; MCI: mild cognitive impairment; AD: Alzheimer's disease) were matched for age, sex, time to last CN, and time to first MCI (for matching CN and CN* data points). Among CN* participants, our WM age nonrigid was significantly higher than GM age. Among AD participants, our WM age nonrigid was significantly lower than GM age. In CN and MCI participants, the difference was not significant. These findings may suggest that WM age nonrigid is sensitive to the early stages of cognitive decline, while GM age captures more perceptible anatomical changes in the later stages of cognitive decline.</figcaption>
 </figure>
 
-For more details, please refer to our [paper](https://arxiv.org/abs/2410.22454).
+## Publications
+1. Chenyu Gao, Michael E. Kim, Karthik Ramadass, Praitayini Kanakaraj, Aravind R. Krishnan, Adam M. Saunders, Nancy R. Newlin, Ho Hin Lee, Qi Yang, Warren D. Taylor, Brian D. Boyd, Lori L. Beason-Held, Susan M. Resnick, Lisa L. Barnes, David A. Bennett, Katherine D. Van Schaik, Derek B. Archer, Timothy J. Hohman, Angela L. Jefferson, Ivana Išgum, Daniel Moyer, Yuankai Huo, Kurt G. Schilling, Lianrui Zuo, Shunxing Bao, Nazirah Mohd Khairi, Zhiyuan Li, Christos Davatzikos, Bennett A. Landman for the Alzheimer’s Disease Neuroimaging Initiative and the BIOCARD Study team. **"Brain age identification from diffusion MRI synergistically predicts neurodegenerative disease"**. [[arXiv](https://arxiv.org/abs/2410.22454)]
+2. Chenyu Gao, Michael E Kim, Ho Hin Lee, Qi Yang, Nazirah Mohd Khairi, Praitayini Kanakaraj, Nancy R Newlin, Derek B Archer, Angela L Jefferson, Warren D Taylor, Brian D Boyd, Lori L Beason-Held, Susan M Resnick, Yuankai Huo, Katherine D Van Schaik, Kurt G Schilling, Daniel Moyer, Ivana Išgum, Bennett A Landman. **"Predicting age from white matter diffusivity with residual learning"**. Medical Imaging 2024: Image Processing. International Society for Optics and Photonics (SPIE). 2024. [DOI](https://doi.org/10.1117/12.3006525)
+
+## Intellectual property (IP)
+
+*A provisional patent has been filed. We welcome inquiries regarding investment and collaboration opportunities to advance and commercialize this technology.*
+
+1. Chenyu Gao, Bennett A. Landman, Michael E. Kim. 2024. **System and Method of Brain Age Identification for Predicting Neuro-Degenerative Disease**. U.S. Patent 63/701,861, filed Oct 1, 2024. Provisional patent.
