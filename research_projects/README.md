@@ -12,6 +12,17 @@ Traditional brain age estimation often relies on macro-structural features, such
 <img src="\research_projects\img\2024_BRAID\BRAID_figure_idea.png" alt="BRAID idea figure" style="width:80%; max-width:1950px; height:auto;"/>
 
 
+## 2024
+[FOV extension for brain diffusion MRI via deep generative models]{:.heading.flip-title}
+
+Not all brain diffusion MRI scans capture the entire brain. For scans with an incomplete field of view (FOV), analyses of whole-brain tissue microstructure and connectivity can be severely limited. Instead of discarding such data, can we leverage deep generative models to extend the FOV and recover the missing information? Our approach aims to repair incomplete scans, enabling more comprehensive analyses and preserving valuable data. (Main contributor: [Zhiyuan Li](https://scholar.google.com/citations?hl=en&user=T0yPXRwAAAAJ&view_op=list_works&sortby=pubdate))
+{:.faded}
+
+<img src="\research_projects\img\2024_dMRI_FOV_extension\dMRI_FOV_extension.png" alt="dMRI FOV extension idea" style="width:80%; max-width:2074px; height:auto;"/>
+
+## 2023
+[Characterizing patterns of DTI variance in aging brains]{:.heading.flip-title}
+
 ## 2021 - 2022
 
 [Effects of Defacing Whole Head MRI on Neuroanalysis]{:.heading.flip-title}
@@ -124,3 +135,5 @@ The paper has been accepted by *Chinese Chemical Letters*.
 [Bioactive Scaffolds for Bone Tissue Engineering]: 2020_UG_BONE.md
 [Effects of Defacing Whole Head MRI on Neuroanalysis]: 2022_DEFACE.md
 [BRAID: Brain Age Identification from Diffusion MRI]: 2024_BRAID.md
+[FOV extension for brain diffusion MRI via deep generative models]: 2024_dMRI_FOV_extension.md
+[Characterizing patterns of DTI variance in aging brains]: 2023_DTI_variance.md
