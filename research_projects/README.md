@@ -4,6 +4,15 @@ title:  Research Projects
 ---
 
 ## 2024
+[Pitfalls of defacing whole-head MRI: re-identification risk with diffusion models and compromised research potential]{:.heading.flip-title}
+
+Defacing is often applied to head magnetic resonance image (MRI) datasets prior to public release to address privacy concerns. Our findings indicate that (1) diffusion probabilistic models can recover faces from defaced MRIs, thereby questioning defacing as a privacy protection measure, and (2) defacing alters facial voxels which contain valuable anatomical information for secondary analyses, such as skeletal muscle radiodensity prediction. [[arXiv](https://arxiv.org/abs/2501.18834)]
+{:.faded}
+
+<img src="\research_projects\img\2024_DREAM\DREAM_Problems.png" alt="Pitfalls of defacing" style="width:80%; max-width:1950px; height:auto;"/>
+
+
+## 2024
 [BRAID: Brain Age Identification from Diffusion MRI]{:.heading.flip-title}
 
 Traditional brain age estimation often relies on macro-structural features, such as the size and shape of brain regions. In this study, we take a novel approach by intentionally discarding such information through deformable registration, directing the model's attention to micro-structural features within diffusion MRI. These subtle, textural patterns are known to change earlier than macro-structural features in neurodegenerative diseases like Alzheimer's, offering the potential for earlier detection and intervention. [[GitHub](https://github.com/MASILab/BRAID)] [[arXiv](https://arxiv.org/abs/2410.22454)]
@@ -129,3 +138,4 @@ The paper has been accepted by *Chinese Chemical Letters*.
 [BRAID: Brain Age Identification from Diffusion MRI]: 2024_BRAID.md
 [FOV extension for brain diffusion MRI via deep generative models]: 2024_dMRI_FOV_extension.md
 [Characterizing patterns of DTI variance in aging brains]: 2023_DTI_variance.md
+[Pitfalls of defacing whole-head MRI: re-identification risk with diffusion models and compromised research potential]: 2024_DREAM.md

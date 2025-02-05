@@ -11,4 +11,4 @@ title:  About
 
 
 ## Curriculum Vitae
-My CV can be downloaded [here](\assets\cv\CV_Chenyu_Gao.pdf) (updated on Dec 25, 2024).
+My latest CV can be downloaded [here](\assets\cv\CV_Chenyu_Gao.pdf) (updated on Feb 4, 2025).
