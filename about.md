@@ -16,4 +16,4 @@ I am a 4th year Ph.D. student in Electrical and Computer Engineering at Vanderbi
 
 
 ## Curriculum Vitae
-My latest CV can be downloaded [here](\assets\cv\CV_Chenyu_Gao.pdf) (updated on Sep 5, 2025).
+My latest CV can be downloaded [here](\assets\cv\CV_Chenyu_Gao.pdf) (updated on Sep 16, 2025).
