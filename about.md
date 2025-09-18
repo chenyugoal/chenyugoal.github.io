@@ -15,5 +15,5 @@ I am a 4th year Ph.D. student in Electrical and Computer Engineering at Vanderbi
 - *August 30, 2025*: I wrapped up a wonderful summer internship at [insitro](https://www.insitro.com/), where I designed a multimodal, self-supervised representation learning framework for novel gene discovery. I worked closely with my mentor [Kaiwen Xu](https://www.linkedin.com/in/kaiwen-algo/) and my manager [Nick Eriksson](https://www.nickeriksson.com/), who provided incredible support and guidance, and many colleagues on the Compute team who helped accelerate the development and validation of our method.
 
 
-## Curriculum Vitae
-My latest CV can be downloaded [here](\assets\cv\CV_Chenyu_Gao.pdf) (updated on Sep 16, 2025).
+## CV & Resume
+[CV](\assets\cv\CV_Chenyu_Gao.pdf) (updated on Sep 16, 2025) | [Resume](\assets\resume\Resume_Chenyu_Gao.pdf) (updated on Sep 16, 2025)
