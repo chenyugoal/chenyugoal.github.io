@@ -3,6 +3,19 @@ layout: page
 title:  Research Projects
 ---
 
+This page highlights selected public research projects. Some of my recent work has been conducted during industry internships and is not listed here due to confidentiality or publication restrictions.
+{:.faded}
+
+[Red Teaming mri_reface: Assessing Reversibility via Diffusion-Based Facial Reconstruction Attacks]{:.heading.flip-title}
+
+Can *mri_reface* survive our red-team privacy attack?
+{:.faded}
+
+<figure style="text-align: center;">
+  <img src="\research_projects\img\2026_AAIC_Red_Team\poster.png" alt="AAIC poster" style="width:50%; max-width:1950px; height:auto;"/>
+  <figcaption>AAIC 2026 poster</figcaption>
+</figure>
+
 ## 2024
 [Pitfalls of defacing whole-head MRI: re-identification risk with diffusion models and compromised research potential]{:.heading.flip-title}
 
@@ -48,7 +61,7 @@ What are the costs of privacy protection through MRI defacing?
 <img src="\research_projects\img\2022_Defacing\Defacing_3D_Rendering_All_Methods.png" alt="3D rendering of defacing methods" style="width:80%; max-width:1950px; height:auto;"/>
 
 
-## 2021 
+## 2021
 [Shiny APP for Bird Recognition Using Convolutional Neural Network]{:.heading.flip-title}
 
 An easy-to-use [website](https://m250.shinyapps.io/bird_recognition/) for bird image classification. 
@@ -139,3 +152,4 @@ The paper has been accepted by *Chinese Chemical Letters*.
 [FOV extension for brain diffusion MRI via deep generative models]: 2024_dMRI_FOV_extension.md
 [Characterizing patterns of DTI variance in aging brains]: 2023_DTI_variance.md
 [Pitfalls of defacing whole-head MRI: re-identification risk with diffusion models and compromised research potential]: 2024_DREAM.md
+[Red Teaming mri_reface: Assessing Reversibility via Diffusion-Based Facial Reconstruction Attacks]: 2026_AAIC_Red_Team.md

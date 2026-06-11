@@ -33,5 +33,5 @@ The effects of defacing are noticeable and should not be disregarded. Extra atte
 
 ## Publications
 
-1. Chenyu Gao, Linghao Jin, Jerry L Prince, Aaron Carass. **"Effects of defacing whole head MRI on neuroanalysis"**. Medical Imaging 2022: Image Processing. International Society for Optics and Photonics (SPIE). 2022. [DOI](https://doi.org/10.1117/12.2613175)
-2. Chenyu Gao, Bennett A. Landman, Jerry L. Prince, Aaron Carass. **"Reproducibility evaluation of the effects of MRI defacing on brain segmentation"**. Journal of Medical Imaging. 2023. [DOI](https://doi.org/10.1117/1.JMI.10.6.064001)
+1. Chenyu Gao, Linghao Jin, Jerry L Prince, Aaron Carass. **"Effects of defacing whole head MRI on neuroanalysis"**. *Medical Imaging 2022: Image Processing*. International Society for Optics and Photonics (SPIE). 2022. [DOI](https://doi.org/10.1117/12.2613175)
+2. Chenyu Gao, Bennett A. Landman, Jerry L. Prince, Aaron Carass. **"Reproducibility evaluation of the effects of MRI defacing on brain segmentation"**. *Journal of Medical Imaging*. 2023. [DOI](https://doi.org/10.1117/1.JMI.10.6.064001)

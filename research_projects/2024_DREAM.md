@@ -29,4 +29,4 @@ title:  "Pitfalls of defacing whole-head MRI: re-identification risk with diffus
 </figure>
 
 ## Please refer to the following paper for more details:
-- Chenyu Gao, Kaiwen Xu, Michael E. Kim, Lianrui Zuo, Zhiyuan Li, Derek B. Archer, Timothy J. Hohman, Ann Zenobia Moore, Luigi Ferrucci, Lori L. Beason-Held, Susan M. Resnick, Christos Davatzikos, Jerry L. Prince, Bennett A. Landman. **"Pitfalls of defacing whole-head MRI: re-identification risk with diffusion models and compromised research potential"**. [[arXiv](https://arxiv.org/abs/2501.18834)]
+- Chenyu Gao, Kaiwen Xu, Michael E. Kim, Lianrui Zuo, Zhiyuan Li, Derek B. Archer, Timothy J. Hohman, Ann Zenobia Moore, Luigi Ferrucci, Lori L. Beason-Held, Susan M. Resnick, Christos Davatzikos, Jerry L. Prince, Bennett A. Landman. **"Pitfalls of defacing whole-head MRI: re-identification risk with diffusion models and compromised research potential"**. *Computers in Biology and Medicine* 197 (2025): 111112. [[DOI](https://doi.org/10.1016/j.compbiomed.2025.111112)][[arXiv](https://arxiv.org/abs/2501.18834)]
