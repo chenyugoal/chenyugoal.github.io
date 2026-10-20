@@ -6,9 +6,9 @@ title:  About
 Hi, this is Chenyu.
 
 I am an ECE PhD candidate at Vanderbilt, advised by Dr. [Bennett Landman](https://my.vanderbilt.edu/masi/people/bennett-landman-ph-d/),
-graduating in Dec 2026, and seeking full-time Applied Scientist roles.🤞
+graduating in Dec 2026, and seeking full-time Applied Scientist roles. 🤞
 
-My CV is available [here](\assets\cv\CV_Chenyu_Gao.pdf) (updated on Oct 16, 2026).
+My CV is available [here](\assets\cv\CV_Chenyu_Gao.pdf) (updated on Oct 20, 2026).
 
 ## News
 - *May 15, 2026*: I wrapped up a rewarding spring internship at [TikTok](https://www.tiktok.com/) (ByteDance), where I was fortunate to work with talented colleagues from the Content Ecology team and the Intelligent Creation team on reward model design for video generation model post-training and LLM-driven video understanding and scoring.
